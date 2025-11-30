@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "state": "karnataka",
+    "budget": 3000.0,
+    "weed_detected": false,
+    "soil_type": "red_soil",
+    "disease": "rice_blast",
+    "input_mode": "manual",
+    "timestamp": "2025-11-30T18:41:16.372416"
+  },
+  "analysis": {
+    "soil_analysis": {
+      "characteristics": "iron-rich, acidic, low nitrogen and phosphorus",
+      "amendments": "add organic matter, lime for pH, NPK fertilizers"
+    },
+    "disease_analysis": {
+      "cause": "fungal infection (Magnaporthe oryzae)",
+      "soil_relation": "excessive nitrogen and poor silicon levels",
+      "symptoms": "diamond-shaped lesions"
+    }
+  },
+  "recommendations": {
+    "disease_management": {
+      "disease": "rice_blast",
+      "cause": "fungal infection (Magnaporthe oryzae)",
+      "soil_relation": "excessive nitrogen and poor silicon levels",
+      "low_cost_solution": [
+        "1. Soil Amendments: To improve the soil structure, reduce excess nitrogen, and enhance silicon availability, the farmer can adopt the following simple steps:\n   a. Use organic manure: Farmers can apply well-rotted cow dung or farmyard manure (FYM) to the soil at a rate of 10-15 tonnes per hectare before transplanting. This will help in improving soil structure, increase nutrient availability, and reduce excess nitrogen due to organic N-cycle conversion.\n   b. Add neem cake: Farmers can apply neem cake at a rate of 15-20 kg per hectare before the rice is transplanted. Neem cake contains Silicon and phosphorus, which can improve soil health, boost plant immunity, and reduce disease susceptibility.\n   c. Use rice husks: Rolled rice husks can be used as mulch around the rice field to improve drainage, reduce water evaporation, and add silicon to the soil. Moreover, rice husks contain silicon, which can prevent rice blast.",
+        "2. Disease Treatment:\n   a. Borax solution: The farmer can prepare a solution of borax (100 g) in 100 liters of water. This solution can be used as a foliar spray at 5 liters per hectare to prevent rice blast. Borax helps in reducing the spread of the rice blast fungus by creating an alkaline environment that inhibits its growth.",
+        "3. Prevention Measures:\n   a. Proper drainage: Ensuring proper drainage is essential for preventing water stagnation and keeping the field free of water-borne diseases. farmers can create drainage canals or dig small holes to allow excess water to drain out."
+      ],
+      "high_cost_solution": [
+        "1. Soil Amendments: To optimize the soil structure, reduce nitrogen excess, and improve silicon levels, the farmer can opt for high-tech solutions as follows:\n   a. Lime application: Applying aglime at a rate of 500 kg per hectare can help neutralize acidic soil and increase pH values, ensuring that essential nutrients become available to the rice plants.\n   b. Fertilizers: Applying a balanced nitrogen, phosphorus, and potassium (NPK) fertilizer in a ratio of 16:16:16 can improve the soil's nutrient content and increase the rice yield. Also, apply monoammonium phosphate (MAP) at a rate of 45 kg per hectare to improve the soil phosphorus content, as poor phosphorus levels can also contribute to rice blast.",
+        "2. Disease Treatment:\n   a. Use of fungicides: Farmers can apply fungicides like Quinoxyfen, Propiconazole, or Flutolanil during the stages vulnerable to rice blast. Fungicides can help control the disease by inhibiting fungal growth. However, it is important to note that using fungicides regularly might lead to the development of fungicide-resistant strains of the disease.",
+        "3. Prevention Measures:\n   a. Use of genetically modified rice varieties: Farmers can consider cultivating genetically modified (GM) rice varieties that exhibit resistance to rice blast. These varieties have been engineered with genes derived from Magnaporthe oryzae, which make the rice plants resistant to the disease.",
+        "4. Cost-effective options within budget: Farmers can combine different low-cost methods like borax solution, neem cake application, and rice husk mulching to form a comprehensive low-cost management package against rice blast. This approach will help farmers keep the disease under control and optimize their budget."
+      ]
+    },
+    "soil_improvement": {
+      "recommendations": [
+        "1. **Soil Testing:** Before making any amendments, it's important to determine the current soil pH and nutrient levels. This can be done by a soil testing laboratory. Cost: Rs. 200 - Rs. 500.",
+        "2. **Addition of Organic Matter:** Since the soil is low in nutrients and has low fertility, add organic matter to improve its structure and provide nutrients. rapid agro and bio-engineering solutions buttermilk soap compost or well-rotted manure can be used. Use 5 tonnes of well-rotted manure. Cost: Rs. 1200 - Rs. 1500.",
+        "3. **pH Adjustment:** The soil being iron-rich and acidic, it requires liming to bring the pH to the optimal level for plant growth. Calculate the amount of lime required based on the soil test results. Assuming 50 kg of lime is required, the cost would be: Rs. 800 - Rs. 1200.",
+        "4. **Fertilization:** Based on the soil test results, calculate the amount of NPK fertilizers (Nitrogen, Phosphorus, and Potassium) needed to rectify the low nutrient levels. A balanced fertilizer like 14-14-14 can be used. Assuming 25 bags (50 kg each) of the fertilizer is required, the cost would be: Rs. 1400 - Rs. 1825.",
+        "Total Cost: Rs. 3220 - Rs. 4895. Depending on the available discounts and offers, the final cost could differ slightly."
+      ],
+      "budget_category": "low_cost"
+    }
+  },
+  "selected_plan": "high_cost",
+  "plan_type": "Best-in-Class Approach (Advanced Technology)",
+  "government_schemes": [
+    {
+      "name": "Krishi Bhagya",
+      "subsidy": "up to 10,000 per hectare",
+      "type": "financial_support"
+    },
+    {
+      "name": "PM-KISAN",
+      "subsidy": "6,000 per year",
+      "type": "direct_benefit"
+    },
+    {
+      "name": "Subsidized Fertilizer Scheme",
+      "subsidy": "50% subsidy on fertilizers",
+      "type": "input_subsidy"
+    }
+  ],
+  "executive_summary": " 1. Soil Improvement: Add organic matter to the red soil by using farm waste or compost. Apply required lime to increase soil pH and mix NPK fertilizers evenly to improve soil nutrient content.\n\n2. Disease Treatment: Apply fungicides containing active ingredients specifically effective against Magnaporthe oryzae for rice blast disease prevention. Follow recommended application timings and methods for optimal results.\n\n3. Regularly Monitor Soil & Crops: Keep a close eye on the soil and rice crops for any signs of disease, such as distorted leaves or leaf spots. Early detection can prevent the disease from spreading and potentially save resources.\n\n4. Maintain Good Agricultural Practices (GAP): Practice good agricultural techniques, such as maintaining adequate water levels, avoiding overwatering, and optimizing fertilizer usage to create a healthier rice crop, thus minimizing conditions for rice blast disease outbreak."
+}
